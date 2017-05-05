@@ -1,7 +1,6 @@
 <apex:page >
-  <!--  Some Changes again -->
   <!-- Begin Default Content REMOVE THIS -->
   <h1>Congratulations</h1>
-  This is your new Page-  With the new changes
+  This is your new Page - version change 1
   <!-- End Default Content REMOVE THIS -->
 </apex:page>
